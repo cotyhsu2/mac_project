@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<portfolio>
+
+	<catalog tag = "ABOUT"> 
+		<item name = "CONTACT" />
+		<item name = "DOWNLOAD RESUME" />
+	</catalog>
+	
+	<catalog tag   = "INTERACTIVE"> 
+	
+		<item name="OFFICE FOODY"  		 desc="Online restaurants offer users a new experience of ordering their meal via the Internet. By designing the 2D visual environment based on a restaurant metaphor, users can pick what they want and share their experience instantly. Furthermore, the reservation in the website can enhance efficiency for the users when they go for the meal in a rush hour."	link="http://cias.rit.edu/~cxh2617/officeFoody/"
+		 thumb1 = "assets/interactive/officeFoody/thumb1.jpg"  thumb2 = "assets/interactive/officeFoody/thumb2.jpg" thumb3 = "assets/interactive/officeFoody/thumb3.jpg"/>
+		 	
+		<item name="THE COCA-COLA COMPANY"		desc="In the Coca-Cola Company official website, I designed and developed 'The Coca-Cola System' and 'Innovation' section."	link="http://www.thecoca-colacompany.com"	 
+		thumb1 = "assets/interactive/cocaCola/thumb1.jpg"      thumb2 = "assets/interactive/cocaCola/thumb2.jpg"     thumb3 = "assets/interactive/cocaCola/thumb3.jpg"/>
+		
+		<item name="NY TIME STYLE MAGAZINE" 		desc="In NY Time Style Magazine, I built the Actionscript based framework for it using a customized version of CMS software. Articles and content can easily be updated and managed to accommodate every new issue."	link="http://www.nytimes.com/indexes/2009/04/19/style/t/index.html#pageName=home" 
+		thumb1 = "assets/interactive/tmag/thumb1.jpg" 		      thumb2 = "assets/interactive/tmag/thumb2.jpg" 		   thumb3 = "assets/interactive/tmag/thumb3.jpg"/>
+		
+		<item name="SCOTTS"		desc="Scotts, Industry-leading lawn care & gardening advice. In this project, I designed Flash-based interactive interface for serval landing page to help uers abosord product information easier."	link="html/video/borderless.html"	 
+		thumb1 = "assets/interactive/scotts/thumb1.jpg"      thumb2 = "assets/interactive/scotts/thumb2.jpg"     thumb3 = "assets/interactive/scotts/thumb3.jpg"/>
+		
+		<item name="SYLVAIN HUNG'S PORTFOLIO"                     desc="Visual designer Sylvain Hung's digital portfolio, Hung is the designer who is always pursuing creative and rational design solution, based on his demand, I developed his first personal website by using Actionscript3.0"	 link="http://www.jungchenhung.com/"
+		thumb1 = "assets/interactive/7portfolio/thumb1.jpg" 	  thumb2 = "assets/interactive/7portfolio/thumb2.jpg" 	   thumb3 = "assets/interactive/7portfolio/thumb3.jpg"/>
+		
+		<item name="TORY BURCH"                           desc="Tory Burch offers designer clothes and designer accessories with an elegant but easy luxury, in this website, I developed dynamic Flash contents to extend her design style by producing smooth transition and fluidity movement."	link="http://www.toryburch.com/toryburch/"       
+		 thumb1 = "assets/interactive/tory/thumb1.jpg" 			  thumb2 = "assets/interactive/tory/thumb2.jpg"			   thumb3 = "assets/interactive/tory/thumb3.jpg"/>
+		 
+		<item name="MOVADO GROUP"                     desc="In Movado official website, I designed and developed intro animation for seaonal events to keep the elegant and classic style of Movado."	 link="http://www.movado.com/Series800.aspx"     
+		thumb1 = "assets/interactive/movado/thumb1.jpg" 	  thumb2 = "assets/interactive/movado/thumb2.jpg" 	   thumb3 = "assets/interactive/movado/thumb3.jpg"/>
+		
+		<item name="UI IDEATION 'BORDERLESS'"		desc="The concept of 'Borderless' is focus on fit into users' daily basis seamlessly, it provides a intuitive solution for users to operate between different widgets or application. In this project, I came out the motif of UI concept and produced demo video."	link="html/video/borderless.html"	 
+		thumb1 = "assets/interactive/borderless/thumb1.jpg"      thumb2 = "assets/interactive/borderless/thumb2.jpg"     thumb3 = "assets/interactive/borderless/thumb3.jpg"/>
+		
+		<item name="CAR ENTERTAINMENT SYSTEM"                     desc="User interface design for car entertainment system."	 link=""
+		thumb1 = "assets/interactive/wpc470/thumb1.jpg" 	  thumb2 = "assets/interactive/wpc470/thumb2.jpg" 	   thumb3 = "assets/interactive/wpc470/thumb3.jpg"/>
+		
+		<item name="ST. JOHN"		desc="In St.John E-commerce website, I charged on re-developing Flash contents with fluidity movement and dynamic contents by using Actionscript2.0"	link="http://www.sjk.com/en-us/shoponline/"  
+		thumb1 = "assets/interactive/sjk/thumb1.jpg" 			  thumb2 = "assets/interactive/sjk/thumb2.jpg" 			   thumb3 = "assets/interactive/sjk/thumb3.jpg"/>
+			
+		<item name="HUSH STUDIO V.1"                    desc="Previous version of my personal website."	  link="oldPortfolio/index.html"      
+		thumb1 = "assets/interactive/hush/thumb1.jpg" 			  thumb2 = "assets/interactive/hush/thumb2.jpg"			   thumb3 = "assets/interactive/hush/thumb3.jpg"/>
+		
+	</catalog>
+	
+	<catalog tag   = "WEB AD / APPLICATION"> 
+		<item name="HERBAL ESSENCES RICH MEDIA" 		link="html/interactive/Herbal/index.html"	  
+		thumb = "assets/app/001.jpg"   desc = "Motion design, Actionscript development, Rich media application applied." />
+		
+		<item name="OPTIMUM RICH MEDIA" 			    link="html/interactive/Optimum/index.html"     
+		 thumb = "assets/app/004.jpg"   desc = "Motion design, Actionscript development, Rich media application applied."/>
+		 
+		<item name="FISHING DAY" 				       	link="html/interactive/FishingDay/index.html"	  
+		thumb = "assets/app/007.jpg"   desc = "Interface design, Actionscript development, Illustration"/>
+		
+		<item name="PANTENE RICH MEDIA" 		  		link="html/interactive/Pantene/index.html"	  
+		thumb = "assets/app/002.jpg"   desc = "Motion design, Actionscript development, Rich media application applied."/>
+		
+		<item name="CLASS INDEX" 				        link="html/interactive/ClassIndex/index.html"	  
+		thumb = "assets/app/005.jpg"   desc = "XML integrate, Interface design, Actionscript development, Illustration."/>
+		
+		<item name="FRUITS BAR" 				     	link="html/interactive/QuizBar/index.html"	 
+		 thumb = "assets/app/008.jpg"   desc = "Interface design, Actionscript development, Illustration"/>
+		 
+		<item name="HEAD AND SHOULDER RICH MEDIA" 	    link="html/interactive/HS/index.html"
+		thumb = "assets/app/003.jpg"   desc = "Motion design, Actionscript development"/>
+		
+		<item name="PAINTING CAR" 				     			 link="html/interactive/PaintingCar/index.html"
+		 thumb = "assets/app/006.jpg"   desc = "Interface design, Actionscript development, Illustration"/>
+		 
+		<item name="ZODIAC" 				                 			 link="html/interactive/Zodiac/index.html"
+		 thumb = "assets/app/009.jpg"   desc = "XML integrate, Interface design, Actionscript development, Illustration"/>
+	</catalog>
+	
+	<catalog tag   = "PRINT"> 
+		<item name="POWER OF LOVE" 				     			  link="html/print/print00.html"   thumb = "assets/print/000.jpg" />
+		<item name="LOGO DESIGN - RIT COLLEGE TOWN" 	  link="html/print/print01.html"   thumb = "assets/print/003.jpg" />
+		<item name="ADVERTISING DESIGN - RIT SCHOOL OF PRINT MEDIA"  link="html/print/print02.html"   thumb = "assets/print/006.jpg" />
+		<item name="LOGO DESIGN - OFFICE FOODY" 		  	  link="html/print/print03.html"   thumb = "assets/print/001.jpg" />
+		<item name="WEGMAN 'BLUE LINE' SYMBOL SET" 		  link="html/print/print04.html"   thumb = "assets/print/004.jpg" />
+		<item name="PACKAGE DESIGN - HEALTH CARE MONITOR" 	 link="html/print/print07.html"   thumb = "assets/print/007.jpg" />
+		<item name="LOGO DESIGN - GREEK'S DINER" 		  link="html/print/print06.html"   thumb = "assets/print/002.jpg" />
+		<item name="ADVERTISING DESIGN - COUNTRY CULTURE BUREAU" 				  	      link="html/print/print05.html"   thumb = "assets/print/005.jpg" />
+		<item name="PERSONAL PROJECT" 				          link="html/print/print08.html"   thumb = "assets/print/008.jpg" />
+	</catalog>
+	
+
+</portfolio>
