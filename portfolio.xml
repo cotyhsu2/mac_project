@@ -5,6 +5,7 @@
 	<catalog tag = "ABOUT"> 
 		<item name = "CONTACT" />
 		<item name = "DOWNLOAD RESUME" />
+                <item name = "BOBO" />
 	</catalog>
 	
 	<catalog tag   = "INTERACTIVE"> 
